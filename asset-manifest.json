@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4fa76e9a.chunk.css",
-    "main.js": "/portfolio/static/js/main.a8c004de.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a8c004de.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.2bd90b47.chunk.css",
+    "main.js": "/portfolio/static/js/main.c0716952.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c0716952.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.c90726de.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.c90726de.js.map",
-    "static/js/2.7b37bc95.chunk.js": "/portfolio/static/js/2.7b37bc95.chunk.js",
-    "static/js/2.7b37bc95.chunk.js.map": "/portfolio/static/js/2.7b37bc95.chunk.js.map",
+    "static/js/2.dbfedd1e.chunk.js": "/portfolio/static/js/2.dbfedd1e.chunk.js",
+    "static/js/2.dbfedd1e.chunk.js.map": "/portfolio/static/js/2.dbfedd1e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.0fbb4cbf3892669b8c58167cc4b55913.js": "/portfolio/precache-manifest.0fbb4cbf3892669b8c58167cc4b55913.js",
+    "precache-manifest.451e12761bf5e2821f4215c503f00441.js": "/portfolio/precache-manifest.451e12761bf5e2821f4215c503f00441.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.4fa76e9a.chunk.css.map": "/portfolio/static/css/main.4fa76e9a.chunk.css.map",
-    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/css/main.2bd90b47.chunk.css.map": "/portfolio/static/css/main.2bd90b47.chunk.css.map",
     "static/media/address_image.svg": "/portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -25,7 +24,6 @@
     "static/media/dsc_logo.png": "/portfolio/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/portfolio/static/media/education.3bab7a9d.svg",
     "static/media/experience.svg": "/portfolio/static/media/experience.a00ede3f.svg",
-    "static/media/all.css": "/portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/portfolio/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/portfolio/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/portfolio/static/media/gcp_logo.0ee7e8c9.png",
@@ -53,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c90726de.js",
-    "static/js/2.7b37bc95.chunk.js",
-    "static/css/main.4fa76e9a.chunk.css",
-    "static/js/main.a8c004de.chunk.js"
+    "static/js/2.dbfedd1e.chunk.js",
+    "static/css/main.2bd90b47.chunk.css",
+    "static/js/main.c0716952.chunk.js"
   ]
 }
